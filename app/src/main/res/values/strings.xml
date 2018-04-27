@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AttrsTest</string>
+    <string name="user_name">悟空</string>
+    <string name="user_title">个人信息展示如下：</string>
+
+</resources>

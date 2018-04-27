@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="attrTest">
+        <attr name="name" format="string"/><!--姓名-->
+        <attr name="age" format="integer"/><!--年龄-->
+        <attr name="score" format="float"/><!--分数-->
+        <attr name="sex" >                 <!--姓性别-->
+            <enum name="man" value="1"/>
+            <enum name="woman" value="2"/>
+        </attr>
+    </declare-styleable>
+
+</resources>
